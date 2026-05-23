@@ -19,12 +19,12 @@ O intuito principal do projeto é primeiramente praticar a documentação de pro
 
 
 ## Esquemático
-<p>
+<p align="center">
   <img src="include/esquematico_portao_display.png" width="600">
 </p>
 
 ## Resultados
 
 <p align="center">
-  <img src="include/resultado_portao_display.gif" width="200">
+  <img src="include/resultado_portao_display.gif" width="800">
 </p>
